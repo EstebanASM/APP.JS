@@ -12,13 +12,13 @@ This JavaScript program displays a message or phrase on the screen when the page
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/Mates182/JS.PracticeTask.git
+git clone https://github.com/EstebanASM/APP.JS.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd JS.PracticeTask
+cd APP.JS
 ```
 
 ### Running the Application Locally (Without Docker)
@@ -36,15 +36,15 @@ npm install
 2. Then, start the React development server:
 
 ```bash
-npm run dev
+node app.js
 ```
 
 3. Access the application in your browser at:
 
 ```
-http://localhost:5173
+http://localhost:8089
 ```
 
 ### Running the Application with Docker
 
-To run the application with Docker, visit the Docker Hub Repository of this project: [mates182/js_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/js_practicetask)
+To run the application with Docker, visit the Docker Hub Repository of this project: [estebanandres/hellojavas on Docker Hub](https://hub.docker.com/repository/docker/estebanandres/hellojavas/general)
